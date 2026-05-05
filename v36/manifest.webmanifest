@@ -1,13 +1,13 @@
 {
-  "name": "World Cup 2026 Picks",
-  "short_name": "WC26 Picks",
+  "name": "FWC — FIFA World Cup 2026 Picks",
+  "short_name": "FWC",
   "description": "Fantasy FIFA World Cup 2026 picks and leagues",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#0a0f1c",
+  "theme_color": "#0a0f1c",
   "icons": [
     {
       "src": "/icon-192.png",
